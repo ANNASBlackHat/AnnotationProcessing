@@ -1,0 +1,1 @@
+include ':app', ':amazing-annotation', ':amazing-compiler'
